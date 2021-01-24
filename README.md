@@ -1,4 +1,8 @@
-# jl-exercism-solutions
-My solutions for the [Exercism julia track](https://exercism.io/my/tracks/julia) exercises. 
+# exercism-solutions
+My solutions for the [Exercism](https://exercism.io/) exercises. 
 
-All exercise questions and sample data are from [Exercism](https://exercism.io). 
+Currently include the following tracks:
+- [Java track](https://exercism.io/my/tracks/julia)
+- [Julia track](https://exercism.io/my/tracks/java)
+
+All exercise questions and sample data are from Exercism. 
